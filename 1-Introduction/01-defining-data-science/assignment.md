@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Improve education processes for children in schools | Exam reports data (Historical) | Database with a list of historical performances per student |  Best focus points per student + advise to parents |
+| Vaccination | Controlling vaccination | User vaccination data with user identification per region | Database of vaccinated users vs existing ID data  | Regional Compliance to vaccination and where to focus more |
+| Productivity | Increasing productivity | Device usage info | Database of logs of activity with categorization | Average productivity rate per user |
 
 ## Rubric
 
